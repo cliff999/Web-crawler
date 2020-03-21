@@ -1,49 +1,194 @@
-# Web-crawler
-???
+
+
+runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-32-ade7880b4584>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/file.py", line 15, in <module>
+    print(ele)
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-33-ade7880b4584>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/file.py", line 16, in <module>
+    print("=================================")
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-34-ade7880b4584>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/file.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/file.py", line 15, in <module>
+    print(ele)
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-35-d7f76522cecf>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/class3.py", line 16, in <module>
+    print("=================================")
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-36-d7f76522cecf>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/class3.py", line 17, in <module>
+    print("=================================")
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-37-d7f76522cecf>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/class3.py", line 17, in <module>
+    print("=============================")
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-38-d7f76522cecf>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/class3.py", line 16, in <module>
+    print(ele)
+
+TypeError: 'NoneType' object is not callable
+
+
+
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+Traceback (most recent call last):
+
+  File "<ipython-input-40-d7f76522cecf>", line 1, in <module>
+    runfile('C:/Users/User/Desktop/GitHub/class3.py', wdir='C:/Users/User/Desktop/GitHub')
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 827, in runfile
+    execfile(filename, namespace)
+
+  File "C:\Users\User\Anaconda3\lib\site-packages\spyder_kernels\customize\spydercustomize.py", line 110, in execfile
+    exec(compile(f.read(), filename, 'exec'), namespace)
+
+  File "C:/Users/User/Desktop/GitHub/class3.py", line 17, in <module>
+    print('=============================')
+
+TypeError: 'NoneType' object is not callable
+
+
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 14 10:21:08 2020
+Created on Sat Mar 21 10:47:27 2020
 
 @author: User
 """
+
 import requests
 from bs4 import BeautifulSoup
+data = requests.get("https://movies.yahoo.com.tw/movie_thisweek.html")
+soup = BeautifulSoup(data.text, "html.parser")
 
-data= requests.get('https://www.books.com.tw/web/sys_saletopb/books/02?attribute=30&loc=act_menu_th_46_002')
-soup = BeautifulSoup(data.text, 'html.parser')
-print(soup.prettify())
-'''
-print('=========================================')
-print(soup.title)
-print('=========================================')
-print(soup.a)
-print('=========================================')
-print(soup.a.attrs)
-print('=========================================')
-print(soup.p.text)
-print('=========================================')
-print(soup.find('a'))
-print('=========================================')
-print(soup.find_all('a'))
-print('=========================================')
-print(soup.find_all('a' , class_ = 'B'))
-print('=========================================')
-print(soup.find_all('a' , href = "www.google.com"))
-'''
+divs = soup.find_all('div' , class_= "release_foto")
 
-print(soup.find('div' , class_ = "type02_bd-a"))
-
-div_items = soup.find_all('div' , class_ = "type02_bd-a")
-i = 0
-for div_item in div_items:
-    print(div_item)
+for index,ele in enumerate(divs):
+    #print(ele)
+    #print("=============================")
+    img = ele.find('img')
+    if not img:
+        continue
+    #print(str(index + 1) + " : " + img.get("src"))
+    img_url = img.get("src")
+    #print("=============================")
     
-    h4 = div_item.find('h4')
-    print(h4.text)
+    img_data = requests.get(img_url)
+    #print(img_data.content)
     
-    li_price = div_item.find("li" , class_ = "price_a")
-    print(li_price.text)
-    print('=========================================')
-    i = i + 1
-    if i > 30:
-        break
+    fileName = str(index) + ".jpg"
+    file = open(fileName, "bw")
+    file.write(img_data.content)
+    file.close()
+    
