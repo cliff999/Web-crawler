@@ -26,17 +26,12 @@ for n in range(20):
         productName = each_prod.text
         i = i + 1
         print(str(i) + " : " + str(productName))
-    for each_prod in soup.find_all('h4' ,class_ = "sc-gpHHfC hfPJIb"):
-        productName = each_prod.text
-        i = i + 1
-        print(str(i) + " : " + str(productName))
-'''
+
 i = 0
 for a in range(20):
     for each_prod in soup.find_all('h4' ,class_ = "sc-gpHHfC hfPJIb"):
         productName = each_prod.text
         i = i + 1
         print(str(i) + " : " + str(productName))
-'''
 
 chrome.quit()
